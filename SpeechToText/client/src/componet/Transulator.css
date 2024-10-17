@@ -1,0 +1,41 @@
+.container {
+  text-align: center;
+  margin: 50px auto;
+  max-width: 600px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+.languageSelect {
+  margin: 10px;
+  padding: 10px;
+}
+
+.textBox {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+.startButton,
+.stopButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.startButton {
+  background-color: green;
+  color: white;
+}
+
+.stopButton {
+  background-color: red;
+  color: white;
+}
